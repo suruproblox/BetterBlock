@@ -102,5 +102,13 @@
         "data": "Mined Block",
         "hash": "90da6f333c10f85b3cda1e4a0c28a0587ebff4fbbb3e2fcc19fa9dabe6c131aa",
         "coin_reward": 3.494446980687173e-05
+    },
+    {
+        "index": 12,
+        "previous_hash": "90da6f333c10f85b3cda1e4a0c28a0587ebff4fbbb3e2fcc19fa9dabe6c131aa",
+        "timestamp": 1735042797.1420484,
+        "data": "Mined Block",
+        "hash": "04c5341156f5a142b98167f045a1ddab8b83f9cbaaebf8045ff5bbd316bb0ac5",
+        "coin_reward": 3.702251115579347e-05
     }
 ]
