@@ -2,6 +2,14 @@
     {
         "index": 0,
         "previous_hash": "0",
+        "timestamp": 1735042765.6886,
+        "data": "Genesis Block",
+        "hash": "d5776f301574c91d12ff9026c99d9615b6b55de40e026c613ada009a7c236359",
+        "coin_reward": 0.0
+    },
+    {
+        "index": 0,
+        "previous_hash": "0",
         "timestamp": 1735042624.3826737,
         "data": "Genesis Block",
         "hash": "cc359bb98a8acf23c1220a6fe76a24f9421804bdf47300248f65c859c2a166c5",
@@ -14,5 +22,13 @@
         "data": "Mined Block",
         "hash": "687a5ca2c41663de5c3cda93c9b9b31235b83310b04920fb1e131fea49f2ec95",
         "coin_reward": 4.1906991581178896e-05
+    },
+    {
+        "index": 2,
+        "previous_hash": "687a5ca2c41663de5c3cda93c9b9b31235b83310b04920fb1e131fea49f2ec95",
+        "timestamp": 1735042787.0219347,
+        "data": "Mined Block",
+        "hash": "7611338aa28291ec7ded55d24a608b2fa7f9c0603634a8e7e6acef0198345693",
+        "coin_reward": 8.380262992412796e-05
     }
 ]
