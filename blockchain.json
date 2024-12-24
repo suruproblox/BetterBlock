@@ -1,1 +1,16 @@
-
+[
+    {
+        "index": 0,
+        "previous_hash": "0",
+        "timestamp": 1735042368.2999005,
+        "data": "Genesis Block",
+        "hash": "df6ad85326d62bb6488ebacd399bbf32b26795050f34f52e3d23c7b4eb5025be"
+    },
+    {
+        "index": 1,
+        "previous_hash": "df6ad85326d62bb6488ebacd399bbf32b26795050f34f52e3d23c7b4eb5025be",
+        "timestamp": 1735042383.4557886,
+        "data": "Mined Block",
+        "hash": "0beeb366f419ede40032051ac9c02e8d16638a63fd9a3c280dcfe552f59bd2da"
+    }
+]
