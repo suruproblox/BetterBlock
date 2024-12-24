@@ -1,1 +1,18 @@
-[{'index': 0, 'previous_hash': '0', 'timestamp': '12/24/2024', 'data': 'Genesis Block', 'hash': '69ada76f0e854c78d7d94ba3dafd28c93be960b877946b6d0aeadb9145101f9e', 'coin_reward': 2.362988385474276e-06}, {'index': 1, 'previous_hash': '69ada76f0e854c78d7d94ba3dafd28c93be960b877946b6d0aeadb9145101f9e', 'timestamp': 1735044238.0078092, 'data': 'Mined Block 1', 'hash': 'MTY5YWRhNzZmMGU4NTRjNzhkN2Q5NGJhM2RhZmQyOGM5M2JlOTYwYjg3Nzk0NmI2ZDBhZWFkYjkxNDUxMDFmOWUxNzM1MDQ0MjM4LjAwNzgwOTJNaW5lZCBCbG9jayAx', 'coin_reward': 0.0038255309}, {'index': 2, 'previous_hash': 'MTY5YWRhNzZmMGU4NTRjNzhkN2Q5NGJhM2RhZmQyOGM5M2JlOTYwYjg3Nzk0NmI2ZDBhZWFkYjkxNDUxMDFmOWUxNzM1MDQ0MjM4LjAwNzgwOTJNaW5lZCBCbG9jayAx', 'timestamp': 1735044238.0079103, 'data': 'Mined Block 2', 'hash': 'Mk1UWTVZV1JoTnpabU1HVTROVFJqTnpoa04yUTVOR0poTTJSaFptUXlPR001TTJKbE9UWXdZamczTnprME5tSTJaREJoWldGa1lqa3hORFV4TURGbU9XVXhOek0xTURRME1qTTRMakF3Tnpnd09USk5hVzVsWkNCQ2JHOWpheUF4MTczNTA0NDIzOC4wMDc5MTAzTWluZWQgQmxvY2sgMg==', 'coin_reward': 0.0033487522}]
+[
+    {
+        "index": 0,
+        "previous_hash": "0",
+        "timestamp": "01/01/2024",
+        "data": "Genesis Block",
+        "hash": "69ada76f0e854c78d7d94ba3dafd28c93be960b877946b6d0aeadb9145101f9e",
+        "coin_reward": 2.8253760191409156e-05
+    },
+    {
+        "index": 1,
+        "previous_hash": "69ada76f0e854c78d7d94ba3dafd28c93be960b877946b6d0aeadb9145101f9e",
+        "timestamp": "2024-12-24 12:45:19",
+        "data": "Block data",
+        "hash": "60f0170578fcf88026bcb731624847f1efb5aeac10ed782b78ed6a2cfb250769",
+        "coin_reward": 5.315983012786816e-05
+    }
+]
