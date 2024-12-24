@@ -70,5 +70,13 @@
         "data": "Block data",
         "hash": "63e5b67a702ddb6e773bb155609bb68de2ef6fafbad819279556daf8f170ca79",
         "coin_reward": 4.868979458096155e-05
+    },
+    {
+        "index": 9,
+        "previous_hash": "63e5b67a702ddb6e773bb155609bb68de2ef6fafbad819279556daf8f170ca79",
+        "timestamp": "2024-12-24 12:45:28",
+        "data": "Block data",
+        "hash": "e39408555f6039a1d82467688ff855dd3129a2ec9a73956b5f762676b392c5ef",
+        "coin_reward": 2.7924396191767893e-06
     }
 ]
